@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable preview_car_visualizer
+drawable preview_consumption_chart
+drawable preview_engine_dashboard
+drawable preview_speed_gauge
+drawable preview_tire_pressure
+style Theme.CarSenseAI
